@@ -20,6 +20,9 @@
     "@angular/platform-browser": "^6.1.0",
     "@angular/platform-browser-dynamic": "^6.1.0",
     "@angular/router": "^6.1.0",
+    "@auth0/angular-jwt": "^2.1.2",
+    "angular-jwt": "^0.1.10",
+    "bootstrap": "4.0",
     "core-js": "^2.5.4",
     "rxjs": "~6.2.0",
     "zone.js": "~0.8.26"
